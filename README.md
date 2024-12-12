@@ -16,5 +16,5 @@ test_plus.py
 ```
 
 ## **Overview**
-This repository demonstrates how to visualize **Roll**, **Pitch**, and **Yaw** **(both origin and center)** rotations using a simple **3D axis representation in 2d space and its actuall limitaions** in OpenCV. These rotations correspond to the orientation of an object in 3D space:
+This repository demonstrates actually help how 2d visualization works and how to visualize **Roll**, **Pitch**, and **Yaw** **(both origin and center)** rotations using a simple **3D axis representation in 2d space and its actuall limitaions** in OpenCV. These rotations correspond to the orientation of an object in 3D space:
 
